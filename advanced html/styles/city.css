@@ -1,0 +1,9 @@
+.city {
+    font-weight: bold;
+    color:pink;
+}
+#city{
+    font-weight: lighter;
+    font-size: larger;
+    color: bisque;
+}
